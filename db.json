@@ -1,0 +1,101 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "email": "zulfa",
+      "password": "1234"
+    },
+    {
+      "email": "hindi",
+      "password": "0987",
+      "id": 2
+    },
+    {
+      "email": "aulia",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "email": "zulfa",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "email": "qorina",
+      "password": "0311",
+      "id": 5
+    },
+    {
+      "email": "qorinaas99@gmail.com",
+      "password": "03",
+      "id": 6
+    }
+  ],
+  "cake": {
+    "data": [
+      {
+        "id": 1,
+        "nama": "Chocolate Tiramisu",
+        "deskripsi": "Kombinasi soft chocolate sponge cake yang direndam dengan sirup rasa kopi ditambah mousse rasa kopi dan dark chocolate pada bagian atasnya",
+        "harga": "250.000",
+        "gambar": "https://media-cdn.tripadvisor.com/media/photo-p/0c/c5/73/bf/milk-chocolate.jpg"
+      },
+      {
+        "id": 2,
+        "nama": "Classic Mix Signature 20X20",
+        "deskripsi": "Kombinasi 4 rasa chocolate cheese klasik yang tergabung dalam 1 cake: Tiramisu, Black Forest, Red Velvet dan Vanilla Fruit dengan rasa spektakuler",
+        "harga": "355.000",
+        "gambar": "https://cf.shopee.co.id/file/fab9377348d3fbbd896585371bbc0c93"
+      },
+      {
+        "id": 3,
+        "nama": "Cheesecake Signature 20X20",
+        "deskripsi": "Kombinasi 4 cheesecake terlaris dari The Harvest yaitu: Chocomaltine Cheesecake, Strawberry Cheesecake, Mixfruit Cheesecake dan Red Velvet Cake",
+        "harga": "342.000",
+        "gambar": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/1/10/928a9569-02e7-484f-b3b0-8ea446c433b7.jpg"
+      },
+      {
+        "id": 4,
+        "nama": "Special Signature Cake D20",
+        "deskripsi": "Special Signature Cake merupakan cake yang memiliki perpaduan rasa Tiramisu, Black Forest, Red Velvet, Vanilla Fruit dan Choco De Ville",
+        "harga": "370.000",
+        "gambar": "https://cf.shopee.co.id/file/35392e1e6c50d6eff4225d3872c88849"
+      },
+      {
+        "id": 5,
+        "nama": "Vanilla Fruit",
+        "deskripsi": "Vanilla Fruit Cake merupakan perpaduan kelezatan krim vanila di antara sponge cake vanila, dengan topping berbagai potongan buah",
+        "harga": "315.000",
+        "gambar": "data:image/jpeg;base64,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"
+      },
+      {
+        "id": 6,
+        "nama": "Red Velvet",
+        "deskripsi": "Red Velvet Cake merupakan perpaduan Sponge cake dengan lapisan krim lembutnya semakin populer dan kian dicintai sebagai dessert",
+        "harga": "206.000",
+        "gambar": "https://pbs.twimg.com/media/DZ00G5-VwAAqPZL.jpg"
+      },
+      {
+        "id": 7,
+        "nama": "Dark Storm",
+        "deskripsi": "Dark chocolate ganache premium dengan cremeux cokelat, spons cokelat dan susu bertabur potongan kacang almond yang crunchy",
+        "harga": "215.000",
+        "gambar": "https://cf.shopee.co.id/file/d3c073ca7162a107cf71a30f4ed5f449"
+      },
+      {
+        "id": 8,
+        "nama": "Black Forest",
+        "deskripsi": "Black Forest adalah Cake classic asal jerman dengan cita rasa yang kaya dan khas disajikan secara inovatif dengan garnish spesial",
+        "harga": "415.000",
+        "gambar": "https://cf.shopee.co.id/file/sg-11134201-22110-4kun9djsy7jva8"
+      },
+      {
+        "id": 9,
+        "nama": "Classic Opera",
+        "deskripsi": "Classic Opera merupakan kue perpaduan sempurna rasa dark cokelat dan kopi, di setiap gigitannya penuh kelezatan!",
+        "harga": "205.000",
+        "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Birthday_cake_%288973445388%29_%28cropped%29.jpg/1200px-Birthday_cake_%288973445388%29_%28cropped%29.jpg"
+      }
+    ]
+  }
+}
